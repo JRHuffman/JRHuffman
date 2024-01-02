@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi, I'm Jake Huffman!
 
+I'm a Biological Scientist focused on data analysis, and here is where you will find some of the projects I have worked on.
 <!--
 **JRHuffman/JRHuffman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
